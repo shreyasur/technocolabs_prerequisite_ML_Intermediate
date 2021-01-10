@@ -1,0 +1,2 @@
+# technocolabs_prerequisite_ML_Intermediate
+Solved Excercises from Kaggle
